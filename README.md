@@ -3,7 +3,6 @@
 A professional, modern, and fully responsive Marketing Agency website built with the latest web technologies.
 
 ## 🛠 Technologies Used:
-* **HTML5** & **CSS3**
 * **Tailwind CSS** 
 
 ## 📋 Features:
